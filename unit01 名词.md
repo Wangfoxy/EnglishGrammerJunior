@@ -67,3 +67,7 @@
 - two fish. 两条鱼
 
 ## 三、名词所有格
+### 3.1 形成规则 
+#### 3.1.1 单数名词：名词's 
+- the boy's schoolbay. 男孩的书包。
+- Joea's dress. Joea的洋装。
