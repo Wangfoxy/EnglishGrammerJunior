@@ -39,4 +39,5 @@
 
 #### 2.1.2 名词字尾为s、sh、ch、x、o：加es 
 > class - classes、bus - buses、dish - dishes、bench - benches、box - boxes
+
 **注意:** 名词字尾为子音 + o，复数名词加es，如: tomatoes，但是有例外：photos
