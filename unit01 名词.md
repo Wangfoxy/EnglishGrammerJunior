@@ -111,5 +111,6 @@
 - an apple、an umbrella、an old woman
 
 ### 4.3 不定冠词 
-**a / an的发音：** 
-- 
+**a / an的发音：** 强调的时候可以将/ə/变成/əi/ 
+- I read a novel. 我读一本小说。
+- I read a novel, not two. 我读一本小说，不是两本。
