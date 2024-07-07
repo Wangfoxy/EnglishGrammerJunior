@@ -22,3 +22,12 @@
 **物质名词如何表示数量？** 
 > 数字 + 容器(度量衡) + of + 物质
 - a loaf of bread. 一条面包。
+- a cup of coffee. 一杯咖啡。
+- a sheet of paper. 一张纸。
+- a spoonful of sand. 一把沙子。
+- an armful of wood. 一把木材。
+
+### 1.5 抽象名词 
+- beauty、honesy、love、patience、happiness、music....
+
+## 二、名词的数以及变化规律
