@@ -14,3 +14,11 @@
 > Bob、Smith、April、London.....
 
 **注意:** 有几个需要加上定冠词the的特殊专有名词
+- the United States、the United Nations....
+
+### 1.4 物质名词 
+> glass、wood、paper、butter、fruit....
+
+**物质名词如何表示数量？** 
+> 数字 + 容器(度量衡) + of + 物质
+- a loaf of bread. 一条面包。
