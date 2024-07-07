@@ -41,3 +41,11 @@
 > class - classes、bus - buses、dish - dishes、bench - benches、box - boxes
 
 **注意:** 名词字尾为子音 + o，复数名词加es，如: tomatoes，但是有例外：photos
+
+#### 2.1.3 名词字尾为子音 + y：去y加ies 
+> baby - babies、story - stories、city - cities、lady - ladies
+
+#### 2.1.4 名词字尾为f或fe：去f或fe + ves 
+> leaf - leaves / wife - wives / knife - knives
+
+例外: handerchiefs、chiefs、roofs
