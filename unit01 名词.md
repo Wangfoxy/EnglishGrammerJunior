@@ -111,5 +111,5 @@
 - an apple、an umbrella、an old woman
 
 ### 4.3 不定冠词 
-**a / an的发音：** 强调的时候可以将/ə/变成/əi/
+**a / an的发音：** 
 - 
