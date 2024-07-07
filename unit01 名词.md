@@ -49,3 +49,5 @@
 > leaf - leaves / wife - wives / knife - knives
 
 例外: handerchiefs、chiefs、roofs
+
+### 2.2 不规则变化
