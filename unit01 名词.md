@@ -97,3 +97,15 @@
   我在理发店遇到他。
 - We like to eat lunch at MacDoanld's.
   我们喜欢去那家素食餐厅吃午餐。
+
+## 四、冠词 
+### 4.1 分类
+1. 定冠词：the,通常放在名词前面，修饰名词，是名词的帽子
+2. 不定冠词：a / an
+
+### 4.2 冠词的用法
+#### 4.2.1 a + 子音开头的单数名词
+- a book、a girl、a young man
+
+#### 4.2.2 an + 母音开头的单数名词
+- an apple、an umbrella、an old woman
