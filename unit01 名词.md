@@ -73,5 +73,14 @@
 - Joea's dress. Joea的洋装。
 
 #### 3.1.2 复数名词：名词s' 
-- a girl's school. 一所女子学校。
+- a girls' school. 一所女子学校。
 - these students' teacher. 这些学生们的老师。
+
+### 3.2 共同所有格与个别所有格
+#### 3.2.1 共同所有格：名词 + 名词.... + 名词's 
+- Harry and Bill's father is a scientist.
+  Harry和Bill的爸爸是一个科学家。(同一个爸爸)
+
+#### 3.2.2 个别所有格：名词's + 名词's.... + 名词's 
+- Harry's and Bill's father are scientists.
+  Harry和Bill的爸爸都是科学家。(不同的爸爸)
