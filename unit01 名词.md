@@ -71,3 +71,7 @@
 #### 3.1.1 单数名词：名词's 
 - the boy's schoolbay. 男孩的书包。
 - Joea's dress. Joea的洋装。
+
+#### 3.1.2 复数名词：名词s' 
+- a girl's school. 一所女子学校。
+- these students' teacher. 这些学生们的老师。
