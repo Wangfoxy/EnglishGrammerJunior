@@ -51,3 +51,19 @@
 例外: handerchiefs、chiefs、roofs
 
 ### 2.2 不规则变化
+#### 2.2.1 名词字尾为: en、ren 
+> ox - oxen、child - children
+
+#### 2.2.2 改变母音
+> man - men、woman - women、goose - geese、tooth - teeth、mouse - mice
+
+#### 2.2.3 单复数同型 
+> fish、deer、sheep、Chinese、Japanese
+
+**注意：** fish表示鱼的种类时是可数名词
+- a kind of fish.  一种鱼
+- two kinds of fishes. 两种鱼
+- one fish. 一条鱼
+- two fish. 两条鱼
+
+## 三、名词所有格
