@@ -93,3 +93,7 @@
 **注意：** 所有格之后的名词，如果在句子中非常容易理解，通常可以忽略
 - She's going to the dentist's.
   她去牙医诊所。
+- I met him at the baber's. (shop)
+  我在理发店遇到他。
+- We like to eat lunch at MacDoanld's.
+  我们喜欢去那家素食餐厅吃午餐。
