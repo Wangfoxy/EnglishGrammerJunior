@@ -114,3 +114,11 @@
 **a / an的发音：** 强调的时候可以将/ə/变成/əi/ 
 - I read a novel. 我读一本小说。
 - I read a novel, not two. 我读一本小说，不是两本。
+
+### 4.4 定冠词the的用法
+> 母音前读/ði/, 子音前念/ðə/
+
+- Please shut the door. 请关门
+- The rich aren't always happy. 有钱人并非总是快乐的。
+
+the + 形容词：泛指....的人，代表复数
