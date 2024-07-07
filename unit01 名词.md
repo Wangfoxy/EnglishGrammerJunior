@@ -84,3 +84,12 @@
 #### 3.2.2 个别所有格：名词's + 名词's.... + 名词's 
 - Harry's and Bill's father are scientists.
   Harry和Bill的爸爸都是科学家。(不同的爸爸)
+
+#### 3.2.3 无生物所有格：A的B -> B of A 
+- 桌子的脚: the legs of the table
+- 车门: the door of the car
+- 女孩的名字: the name of the girl. / the girl's name.
+
+**注意：** 所有格之后的名词，如果在句子中非常容易理解，通常可以忽略
+- She's going to the dentist's.
+  她去牙医诊所。
